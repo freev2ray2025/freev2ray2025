@@ -48,8 +48,8 @@ V2rayU免费节点订阅, V2rayU机场订阅分享，V2rayU翻墙代理免费节
 - 标题:共享免费的V2Ray节点，2025年1月5号！4个订阅地址，10个高速节点通通免费！支持Clash,V2rayN等软件，秒速接入，终生免费的VPN服务，开启一段全新的网络体验，优质代理，免费天梯，更快更稳！互联网科技爬墙，免费梯子，免费代理，永久免费代理  |  野猫想分享 
 - 内容: 
 http://subssr.xfxvpn.me/api/v1/client/subscribe?token=13ee2d58ffdf9847cffb229787046a27
-http://subssr.xfxvpn.me/api/v1/client/subscribe?token=3f8a160f04032dcdf3398506c60a4371
 http://subssr.xfxvpn.me/api/v1/client/subscribe?token=75c82443b8d6b035d9c4a23fa1eab680
+http://subssr.xfxvpn.me/api/v1/client/subscribe?token=3f8a160f04032dcdf3398506c60a4371
 http://subssr.xfxvpn.me/api/v1/client/subscribe?token=7f169645aa92c1820e3fd6e5ead23de9 
-- 更新时间: 2025年01月06日04点39分 
+- 更新时间: 2025年01月06日04点50分 
 结束
