@@ -51,5 +51,5 @@ http://subssr.xfxvpn.me/api/v1/client/subscribe?token=db4eadf44e3caf7ae18ae5d22d
 http://subssr.xfxvpn.me/api/v1/client/subscribe?token=3ce5f5520c9002d8a553354f5e3e45a2
 http://subssr.xfxvpn.me/api/v1/client/subscribe?token=d5e10527adf2b4fe40a95a0bf6056ae5
 http://subssr.xfxvpn.me/api/v1/client/subscribe?token=1e0f08536b541ca3567d22d5ac6c2a0f 
-- 更新时间: 2025年01月08日16点40分 
+- 更新时间: 2025年01月08日16点55分 
 结束
