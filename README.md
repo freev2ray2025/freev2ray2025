@@ -47,9 +47,9 @@ V2rayU免费节点订阅, V2rayU机场订阅分享，V2rayU翻墙代理免费节
 - 域名: ['https://ymxfx.xyz'] 
 - 标题:共享免费的V2Ray节点，2025年1月20号！4个订阅地址，10个高速节点通通免费！支持Clash,V2rayN等软件，秒速接入，终生免费的VPN服务，开启一段全新的网络体验，优质代理，免费天梯，更快更稳！互联网科技爬墙，免费梯子，免费代理，永久免费代理  |  野猫想分享 
 - 内容: 
+http://subssr.xfxvpn.me/api/v1/client/subscribe?token=74c063eedd25204bfc6082a7b905f746
 http://subssr.xfxvpn.me/api/v1/client/subscribe?token=14d0f5bb0c65bb689f6f02234c1811c5
-http://subssr.xfxvpn.me/api/v1/client/subscribe?token=ed964a47dcbdc142c7e76a9a5f22b861
 http://subssr.xfxvpn.me/api/v1/client/subscribe?token=b4edc6a6587a80bd2551294efa3979d0
-http://subssr.xfxvpn.me/api/v1/client/subscribe?token=74c063eedd25204bfc6082a7b905f746 
-- 更新时间: 2025年01月21日12点55分 
+http://subssr.xfxvpn.me/api/v1/client/subscribe?token=ed964a47dcbdc142c7e76a9a5f22b861 
+- 更新时间: 2025年01月21日13点32分 
 结束
