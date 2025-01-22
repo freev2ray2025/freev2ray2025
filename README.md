@@ -45,11 +45,11 @@ V2rayU免费节点订阅, V2rayU机场订阅分享，V2rayU翻墙代理免费节
 
 - 免费节点分享 
 - 域名: ['https://ymxfx.xyz'] 
-- 标题:共享免费的V2Ray节点，2025年1月21号！4个订阅地址，10个高速节点通通免费！支持Clash,V2rayN等软件，秒速接入，终生免费的VPN服务，开启一段全新的网络体验，优质代理，免费天梯，更快更稳！互联网科技爬墙，免费梯子，免费代理，永久免费代理  |  野猫想分享 
+- 标题:共享免费的V2Ray节点，2025年1月22号！4个订阅地址，10个高速节点通通免费！支持Clash,V2rayN等软件，秒速接入，终生免费的VPN服务，开启一段全新的网络体验，优质代理，免费天梯，更快更稳！互联网科技爬墙，免费梯子，免费代理，永久免费代理  |  野猫想分享 
 - 内容: 
-http://subssr.xfxvpn.me/api/v1/client/subscribe?token=6990ea0209d88fd53b395dc8d555d3d6
-http://subssr.xfxvpn.me/api/v1/client/subscribe?token=7c6a904930e24155a93294c7fbbf16f3
-http://subssr.xfxvpn.me/api/v1/client/subscribe?token=f3b611e8413c49991ed7a2d49a264c2e
-http://subssr.xfxvpn.me/api/v1/client/subscribe?token=0128d01a6ce9bdaf555d9fc7a16a6952 
-- 更新时间: 2025年01月22日13点55分 
+http://subssr.xfxvpn.me/api/v1/client/subscribe?token=3f45fa7d61f97108a81ebdeda65a3095
+http://subssr.xfxvpn.me/api/v1/client/subscribe?token=b0987414e67e66b6719ee10cc44fd57f
+http://subssr.xfxvpn.me/api/v1/client/subscribe?token=5bf7e3dc13b3a46d6824de01d75cce8b
+http://subssr.xfxvpn.me/api/v1/client/subscribe?token=e89dcdae5d0673e2e93a318c600ffd8b 
+- 更新时间: 2025年01月22日14点42分 
 结束
