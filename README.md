@@ -49,7 +49,7 @@ V2rayU免费节点订阅, V2rayU机场订阅分享，V2rayU翻墙代理免费节
 - 内容: 
 http://subssr.xfxvpn.me/api/v1/client/subscribe?token=c4ba67644ec65429d253268db08b6410
 http://subssr.xfxvpn.me/api/v1/client/subscribe?token=d3af73265f68264bad2d4da73e7bd3f4
-http://subssr.xfxvpn.me/api/v1/client/subscribe?token=4654e17d1e04047aebb6f0d56af8e705
-http://subssr.xfxvpn.me/api/v1/client/subscribe?token=73cd34c488f4db14b3c6eb6bab4fe68c 
-- 更新时间: 2025年02月02日09点19分 
+http://subssr.xfxvpn.me/api/v1/client/subscribe?token=73cd34c488f4db14b3c6eb6bab4fe68c
+http://subssr.xfxvpn.me/api/v1/client/subscribe?token=4654e17d1e04047aebb6f0d56af8e705 
+- 更新时间: 2025年02月02日10点29分 
 结束
