@@ -47,14 +47,14 @@ V2rayU免费节点订阅, V2rayU机场订阅分享，V2rayU翻墙代理免费节
 - 域名: ['https://ymxfx.xyz'] 
 - 标题:共享免费的V2Ray节点，2025年2月8号！4个订阅地址，10个高速节点通通免费！支持Clash,V2rayN等软件，秒速接入，终生免费的VPN服务，开启一段全新的网络体验，优质代理，免费天梯，更快更稳！互联网科技爬墙，免费梯子，免费代理，永久免费代理  |  野猫想分享 
 - 内容: 
-http://subssr.xfxvpn.me/api/v1/client/subscribe?token=79ad778e1b7fed2439ba48193a0dc059
-http://subssr.xfxvpn.me/api/v1/client/subscribe?token=aa86de2c9b66ba91d76be4534b367b47
-http://subssr.xfxvpn.me/api/v1/client/subscribe?token=d6d5467955ac169b26e2589a26569bfe
-http://subssr.xfxvpn.me/api/v1/client/subscribe?token=d143b11d26a874957ee216d81cf20d6b
-http://subssr.xfxvpn.me/api/v1/client/subscribe?token=3bf7aac6552f21c5bbe87ee56041b829
-http://subssr.xfxvpn.me/api/v1/client/subscribe?token=27d458b33dc85d90c90003d7ff9560da
-http://subssr.xfxvpn.me/api/v1/client/subscribe?token=34a6c3fb3f1503a1ba9e55fccc5f61e2
-http://subssr.xfxvpn.me/api/v1/client/subscribe?token=d2a6dbac1843a3c1675754a40245a684
-http://subssr.xfxvpn.me/api/v1/client/subscribe?token=541bf1bd5c088205809255c629ae91a3 
-- 更新时间: 2025年02月08日07点59分 
+http://subssr.xfxvpn.me/api/v1/client/subscribe?token=a8ca590816c7c50c1c3b40e6e3e48548
+http://subssr.xfxvpn.me/api/v1/client/subscribe?token=eb380e02fa0653fdeaee7b68d45af2d4
+http://subssr.xfxvpn.me/api/v1/client/subscribe?token=a4e6d2038d3995dfc961e9fc0c80338f
+http://subssr.xfxvpn.me/api/v1/client/subscribe?token=0cb0717ec0bedc24b8b34920a7e51635
+http://subssr.xfxvpn.me/api/v1/client/subscribe?token=62d53cbc7ec8b47424a998016ff20664
+http://subssr.xfxvpn.me/api/v1/client/subscribe?token=f7181a6ee113a816f58ef12680a0138a
+http://subssr.xfxvpn.me/api/v1/client/subscribe?token=dd8501246fb992bf9d48e3fbcc377e8a
+http://subssr.xfxvpn.me/api/v1/client/subscribe?token=24e5915204b13657511477496fe28918
+http://subssr.xfxvpn.me/api/v1/client/subscribe?token=5396d2e8dc9eec01dc5c19dfd33241d3 
+- 更新时间: 2025年02月08日09点45分 
 结束
